@@ -1,0 +1,35 @@
+[33mcommit 3ba442ccdc6419033b246ea4dc8b088b63298d1f[m
+Author: Adam Gincel <agincel@stevens.edu>
+Date:   Mon Jun 22 02:19:12 2015 -0400
+
+    Attempt removing Saved Folder
+
+[33mcommit ca3dec1900802fc48669082ba374ccb8218853ca[m
+Author: Adam Gincel <agincel@stevens.edu>
+Date:   Mon Jun 22 01:57:46 2015 -0400
+
+    Fixed Nitro, Added HUD (dear god why was that so hard), checkpoint sounds, small surfaces, recharge for missile and nitro, foundation for menus.
+
+[33mcommit 2ddc938d2b9d815c51887415f5d6599a8aa362fb[m
+Author: Adam Gincel <agincel@stevens.edu>
+Date:   Fri Jun 19 22:41:03 2015 -0400
+
+    Fixed checkpoints.
+
+[33mcommit 41e92698704c13421ba919d88bcd0c5c2eea49f4[m
+Author: Adam Gincel <agincel@stevens.edu>
+Date:   Thu Jun 18 20:12:53 2015 -0400
+
+    Nitro works but you can't direct it yet.
+
+[33mcommit 501d993c6542f08898beaa84584467206953aeb5[m
+Author: Adam Gincel <agincel@stevens.edu>
+Date:   Thu Jun 18 02:57:49 2015 -0400
+
+    Added 4 trucks, rockets, and checkpoints.
+
+[33mcommit c3591cf9a58cfa2bcc40aee0aa5215110d66118d[m
+Author: Adam Gincel <agincel@stevens.edu>
+Date:   Wed Jun 17 03:54:51 2015 -0400
+
+    Initial commit. Truck has working camera, movement, jumping, and horn.

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\RigerBigger.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{AFD6F3A6-C00C-47E1-91FD-5E3B463F819A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\RigerBigger.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\RigerBiggerEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{C7118C35-8E25-4175-ADF9-690CB8548A47}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\RigerBigger">
+			<UniqueIdentifier>{60D8D329-E3A2-424D-9FF9-6759722CB173}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\RigerBigger\RigerBigger.Build.cs">
+			<Filter>Source\RigerBigger</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\RigerBigger\RigerBigger.cpp">
+			<Filter>Source\RigerBigger</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\RigerBigger\RigerBigger.h">
+			<Filter>Source\RigerBigger</Filter>
+		</ClInclude >
+		<Filter Include="Source\RigerBigger\Private">
+			<UniqueIdentifier>{7CB2C665-AADB-4D0D-83BF-30F70D810B2F}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\RigerBigger\Private\SplitscreenRemover.cpp">
+			<Filter>Source\RigerBigger\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\RigerBigger\Public">
+			<UniqueIdentifier>{AEEDF2CB-3B3B-49B7-938A-C76C90C3380D}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\RigerBigger\Public\SplitscreenRemover.h">
+			<Filter>Source\RigerBigger\Public</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
